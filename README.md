@@ -422,4 +422,4 @@ Once the resource creation finishes you can get the DNS of a load balancer and p
 
 That’s it now, you have learned how to create various resources in AWS using Terraform.
 
- 
+ for test
